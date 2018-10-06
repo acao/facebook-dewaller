@@ -1,0 +1,11 @@
+{
+  "name": "facebook-dewaller-extension",
+  "version": "0.0.1",
+  "description": "Removes disruptive facebook navigation to improve logged-out facebook browsing experience. Makes it easier to use Facebook with Tor/OrBot/etc, Incognito browsing, or any other logged-out browsing context",
+  "main": "index.js",
+  "author": "Rikki Schulte",
+  "license": "MIT",
+  "devDependencies": {
+    "web-ext": "^2.9.1"
+  }
+}
