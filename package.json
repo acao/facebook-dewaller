@@ -10,7 +10,8 @@
     "web-ext": "^2.9.1"
   },
   "scripts": {
-    "run": "web-ext run",
+    "dev": "web-ext run",
+    "dev:mobile": "web-ext run --target=firefox-android",
     "release": "echo 'Note: if you didnt bump both package.json and manifest.json versions this will fail' && yarn sign",
     "sign": "export $(cat .env | xargs) && web-ext sign --api-key=$MOZ_PUBLIC_KEY --api-secret=$MOZ_PRIVATE_KEY"
   }
