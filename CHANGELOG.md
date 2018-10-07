@@ -4,4 +4,8 @@ First public release!
 - hides giant footer CTA that also appears
 
 # 0.0.4
-Adds firefox for android support
+Not kitten around
+- Introduces proper firefox for android support (and other browser support soon!)
+  - hides header CTA
+  - hides captive CTA (hopefully?)
+- hides another CTA on people profiles on desktop

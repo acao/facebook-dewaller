@@ -62,7 +62,8 @@ if (isMobileLoggedOut) {
 // @TODO
 // This was to append the login button, but the logo already routes to login?
 // This just moves the login button element, which will redirect the user back
-// to that page when they login, different from logo
+// to that page/event/etc when they login, 
+// different from logo which is generic login
 //
 // const buttons = document.querySelectorAll(`#${MOBILE_GARDEN_WALL_ID} a.btn`);
 // const header = document.getElementById(`${MOBILE_HEADER_ID}`);
