@@ -1,14 +1,16 @@
 {
   "name": "Facebook De-waller for logged-out browsing",
   "manifest_version": 2,
-  "version": "0.0.4",
-  "description": "Removes disruptive facebook navigation to improve logged-out facebook browsing experience. Makes it easier to use Facebook with Tor, private browsing, or in any other logged-out browsing context",
+  "version": "0.0.5",
+  "description": "Hides disruptive features when you aren't logged in, for browsing on the fly or using private/anonymous browsing tools.",
   "homepage_url": "https://github.com/acao/facebook-dewaller-extension",
   "content_scripts": [
     {
       "matches": ["*://*.facebook.com/*"],
       "js": ["index.js"]
     }
-  ]
-
+  ],
+  "icons": { 
+    "128": "icons/wrecking_ball_128.png"
+  }
 }
