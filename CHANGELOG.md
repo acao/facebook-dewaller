@@ -3,6 +3,7 @@ Mobile coverage you can count on
 - First chrome browser release
 - Handle another mobile CTA on photos
 - Another mobile CTA on locations (e.g. chicago)
+- reCatpcha fix! - it seems we have evaded bot detection using a new solution that casually dismisses the dialouge for you, behind the scenes
 
 # 0.0.4
 Not kitten around
