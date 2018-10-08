@@ -1,7 +1,8 @@
 # 0.0.5
 Mobile coverage you can count on
 - First chrome browser release
-- Handle another mobile CTA
+- Handle another mobile CTA on photos
+- Another mobile CTA on locations (e.g. chicago)
 
 # 0.0.4
 Not kitten around
