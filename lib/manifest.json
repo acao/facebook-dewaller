@@ -1,7 +1,7 @@
 {
   "name": "Facebook De-waller for logged-out browsing",
   "manifest_version": 2,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Rikki S",
   "description": "Hides disruptive features when you aren't logged in, for browsing on the fly or using private/anonymous browsing tools.",
   "homepage_url": "https://github.com/acao/facebook-dewaller",

@@ -1,6 +1,6 @@
 {
   "name": "facebook-dewaller-extension",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Hides disruptive features when you aren't logged in, for browsing on the fly or using private/anonymous browsing tools.",
   "main": "lib/index.js",
   "author": "Rikki S.",
